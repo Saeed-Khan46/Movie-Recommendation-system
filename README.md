@@ -4,6 +4,11 @@ Content Based Recommender System recommends items similar to the items user like
 
 Live Demo - https://movie-recommendation-by-saeed.herokuapp.com/
 
+# Demo
+https://github.com/Saeed-Khan46/Movie-Recommendation-system/assets/68279911/6554f6c1-4dee-43aa-920a-cdcec020d13c
+
+
+
 ## Similarity Score : 
    It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
    
