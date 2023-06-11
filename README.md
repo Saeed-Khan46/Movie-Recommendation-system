@@ -4,8 +4,9 @@ Content Based Recommender System recommends items similar to the items user like
 
 Live Demo - https://movie-recommendation-by-saeed.herokuapp.com/
 
-# Demo
-https://github.com/Saeed-Khan46/Movie-Recommendation-system/assets/68279911/6554f6c1-4dee-43aa-920a-cdcec020d13c
+# Demo - Movie Recoemmndation Project
+
+https://github.com/Saeed-Khan46/Movie-Recommendation-system/assets/68279911/98d41a4a-39d8-46bd-a392-3dea44968ab4
 
 
 
